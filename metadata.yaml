@@ -1,0 +1,34 @@
+_repo: The-Divorce-of-Catherine-of-Aragon--13-The-Story-as-Told-by-the-Imperial-Ambassadors-Resident__33113
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Froude, James Anthony
+    alias: Froude, J. A. (James Anthony)
+    birthdate: 1818
+    deathdate: 1894
+    gutenberg_agent_id: '1381'
+    url: http://www.gutenberg.org/2009/agents/1381
+    wikipedia: http://en.wikipedia.org/wiki/James_Anthony_Froude
+description: ''
+gutenberg_issued: '2010-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catharine, of Aragon, Queen, consort of Henry VIII, King of England, 1485-1536
+  -- Divorce'
+- !lcsh 'Great Britain -- Kings and rulers -- Biography'
+- !lcsh 'Henry VIII, King of England, 1491-1547 -- Divorce'
+- !lcc 'DA'
+- !lcsh 'Divorce -- Great Britain -- History -- 16th century'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Biography'
+title: "The Divorce of Catherine of Aragon\r\nThe Story as Told by the Imperial Ambassadors\
+  \ Resident at the Court of Henry VIII"
+url: http://www.gutenberg.org/ebooks/33113
